@@ -1,2 +1,2 @@
 # Power-BI
-projects for interviwer
+projects for career up-skill
